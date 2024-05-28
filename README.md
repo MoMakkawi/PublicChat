@@ -3,7 +3,7 @@
 * [SignalR technology](https://learn.microsoft.com/en-us/aspnet/core/signalr/introduction?view=aspnetcore-7.0) that helps build real-time applications. I used it in the current example only to send and receive messages in real-time.
 * [user management](https://learn.microsoft.com/en-us/aspnet/core/security/authentication/identity?view=aspnetcore-7.0&tabs=visual-studio), provided that the user does not have jobs (send/receive) until he logs in.
 * [Blazor](https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-7.0), interactive client-side web UI called Blazor
-Simple presentation as [Public Chat PDF](https://github.com/MoMakkawi/PublicChat/files/15469342/SignalR.pdf):
+* Simple presentation as [Public Chat PDF](https://github.com/MoMakkawi/PublicChat/files/15469342/SignalR.pdf):
 
 ![Public Chat 1](https://github.com/MoMakkawi/PublicChat/assets/94985793/b0bb9207-931b-4671-8a19-af8338fbdccf)
 ![Public Chat 2](https://github.com/MoMakkawi/PublicChat/assets/94985793/85e5189a-8880-4370-877c-0b97ea34c455)
